@@ -171,7 +171,7 @@ public class MenuPrincipal extends javax.swing.JFrame {
         jPanel1.add(jPanel3, new org.netbeans.lib.awtextra.AbsoluteConstraints(690, -20, 370, 700));
 
         jLabel1.setFont(new java.awt.Font("Eras Bold ITC", 1, 24)); // NOI18N
-        jLabel1.setText("BIENVENIDO A LA CONCESIONARIA ");
+        jLabel1.setText("BIENVENIDO A LA CONCESIONARIA DE AUTOS");
         jPanel1.add(jLabel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(30, 230, 630, 90));
 
         ContenedorBotones.setBackground(new java.awt.Color(255, 255, 255));
