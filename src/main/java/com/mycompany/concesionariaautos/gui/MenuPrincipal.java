@@ -154,6 +154,8 @@ public class MenuPrincipal extends javax.swing.JFrame {
 
         jPanel3.setForeground(new java.awt.Color(255, 255, 255));
 
+        jLabel7.setIcon(new javax.swing.ImageIcon("C:\\Users\\victo\\Documents\\ESCUELA\\9no Semestre\\Admon de BD\\Proyecto\\GITHUB BS\\Iconos para programas\\Iconos para programas\\AutoPortada.PNG")); // NOI18N
+
         javax.swing.GroupLayout jPanel3Layout = new javax.swing.GroupLayout(jPanel3);
         jPanel3.setLayout(jPanel3Layout);
         jPanel3Layout.setHorizontalGroup(

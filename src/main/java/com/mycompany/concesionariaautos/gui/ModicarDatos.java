@@ -79,33 +79,27 @@ public class ModicarDatos extends javax.swing.JFrame {
         jPanel1.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
         jLabel1.setFont(new java.awt.Font("Dubai", 1, 14)); // NOI18N
-        jLabel1.setForeground(new java.awt.Color(0, 0, 0));
         jLabel1.setText("MODELO");
         jPanel1.add(jLabel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(40, 170, 60, -1));
 
-        txtModelo.setBackground(new java.awt.Color(255, 255, 255));
         txtModelo.setFont(new java.awt.Font("Dialog", 0, 14)); // NOI18N
         txtModelo.setForeground(new java.awt.Color(51, 51, 51));
         txtModelo.setBorder(null);
         jPanel1.add(txtModelo, new org.netbeans.lib.awtextra.AbsoluteConstraints(120, 170, 150, -1));
 
         jLabel2.setFont(new java.awt.Font("Dubai", 1, 14)); // NOI18N
-        jLabel2.setForeground(new java.awt.Color(0, 0, 0));
         jLabel2.setText("MARCA");
         jPanel1.add(jLabel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(380, 170, 54, -1));
 
-        txtMarca.setBackground(new java.awt.Color(255, 255, 255));
         txtMarca.setFont(new java.awt.Font("Dialog", 0, 14)); // NOI18N
         txtMarca.setForeground(new java.awt.Color(51, 51, 51));
         txtMarca.setBorder(null);
         jPanel1.add(txtMarca, new org.netbeans.lib.awtextra.AbsoluteConstraints(450, 170, 151, -1));
 
         jLabel3.setFont(new java.awt.Font("Dubai", 1, 14)); // NOI18N
-        jLabel3.setForeground(new java.awt.Color(0, 0, 0));
         jLabel3.setText("MOTOR");
         jPanel1.add(jLabel3, new org.netbeans.lib.awtextra.AbsoluteConstraints(383, 221, 54, -1));
 
-        txtMotor.setBackground(new java.awt.Color(255, 255, 255));
         txtMotor.setFont(new java.awt.Font("Dialog", 0, 14)); // NOI18N
         txtMotor.setForeground(new java.awt.Color(51, 51, 51));
         txtMotor.setBorder(null);
@@ -117,22 +111,18 @@ public class ModicarDatos extends javax.swing.JFrame {
         jPanel1.add(txtMotor, new org.netbeans.lib.awtextra.AbsoluteConstraints(455, 220, 151, -1));
 
         jLabel4.setFont(new java.awt.Font("Dubai", 1, 14)); // NOI18N
-        jLabel4.setForeground(new java.awt.Color(0, 0, 0));
         jLabel4.setText("COLOR");
         jPanel1.add(jLabel4, new org.netbeans.lib.awtextra.AbsoluteConstraints(52, 221, 54, -1));
 
-        txtColor.setBackground(new java.awt.Color(255, 255, 255));
         txtColor.setFont(new java.awt.Font("Dialog", 0, 14)); // NOI18N
         txtColor.setForeground(new java.awt.Color(51, 51, 51));
         txtColor.setBorder(null);
         jPanel1.add(txtColor, new org.netbeans.lib.awtextra.AbsoluteConstraints(124, 220, 151, -1));
 
         jLabel5.setFont(new java.awt.Font("Dubai", 1, 14)); // NOI18N
-        jLabel5.setForeground(new java.awt.Color(0, 0, 0));
         jLabel5.setText("PLACA");
         jPanel1.add(jLabel5, new org.netbeans.lib.awtextra.AbsoluteConstraints(52, 281, 54, -1));
 
-        txtPlaca.setBackground(new java.awt.Color(255, 255, 255));
         txtPlaca.setFont(new java.awt.Font("Dialog", 0, 14)); // NOI18N
         txtPlaca.setForeground(new java.awt.Color(51, 51, 51));
         txtPlaca.setToolTipText("");
@@ -140,25 +130,21 @@ public class ModicarDatos extends javax.swing.JFrame {
         jPanel1.add(txtPlaca, new org.netbeans.lib.awtextra.AbsoluteConstraints(124, 280, 151, -1));
 
         jLabel6.setFont(new java.awt.Font("Dubai", 1, 14)); // NOI18N
-        jLabel6.setForeground(new java.awt.Color(0, 0, 0));
         jLabel6.setText("CARACTERÍSTICAS ADICIONALES:");
         jPanel1.add(jLabel6, new org.netbeans.lib.awtextra.AbsoluteConstraints(380, 340, 270, -1));
 
-        txtPuertas.setBackground(new java.awt.Color(255, 255, 255));
         txtPuertas.setFont(new java.awt.Font("Dialog", 0, 14)); // NOI18N
         txtPuertas.setForeground(new java.awt.Color(51, 51, 51));
         txtPuertas.setBorder(null);
         jPanel1.add(txtPuertas, new org.netbeans.lib.awtextra.AbsoluteConstraints(500, 280, 78, -1));
 
         jLabel8.setFont(new java.awt.Font("Dubai", 1, 14)); // NOI18N
-        jLabel8.setForeground(new java.awt.Color(0, 0, 0));
         jLabel8.setText("CANT. PUERTAS");
         jPanel1.add(jLabel8, new org.netbeans.lib.awtextra.AbsoluteConstraints(380, 280, 110, -1));
 
         jScrollPane1.setBackground(new java.awt.Color(255, 255, 255));
         jScrollPane1.setForeground(new java.awt.Color(51, 51, 51));
 
-        txtCarac.setBackground(new java.awt.Color(255, 255, 255));
         txtCarac.setColumns(20);
         txtCarac.setFont(new java.awt.Font("Dialog", 0, 14)); // NOI18N
         txtCarac.setForeground(new java.awt.Color(51, 51, 51));
@@ -223,7 +209,7 @@ public class ModicarDatos extends javax.swing.JFrame {
         jSeparator15.setOrientation(javax.swing.SwingConstants.VERTICAL);
         jPanel1.add(jSeparator15, new org.netbeans.lib.awtextra.AbsoluteConstraints(590, 280, 20, 20));
 
-        jLabel10.setIcon(new javax.swing.ImageIcon("C:\\Users\\carri\\OneDrive\\Documents\\NetBeansProjects\\Iconos para programas\\AutoLogo2.png")); // NOI18N
+        jLabel10.setIcon(new javax.swing.ImageIcon(getClass().getResource("/com/mycompany/concesionariaautos/img/Iconos para programas/Iconos para programas/AutoLogo2.png"))); // NOI18N
         jPanel1.add(jLabel10, new org.netbeans.lib.awtextra.AbsoluteConstraints(420, 0, 290, 150));
 
         jLabel9.setFont(new java.awt.Font("Lucida Fax", 1, 36)); // NOI18N
@@ -241,7 +227,7 @@ public class ModicarDatos extends javax.swing.JFrame {
 
         btnAgregar.setFont(new java.awt.Font("Ebrima", 1, 18)); // NOI18N
         btnAgregar.setForeground(new java.awt.Color(102, 102, 102));
-        btnAgregar.setIcon(new javax.swing.ImageIcon("C:\\Users\\carri\\OneDrive\\Documents\\NetBeansProjects\\Iconos para programas\\Save-80_icon-icons.com_57276.png")); // NOI18N
+        btnAgregar.setIcon(new javax.swing.ImageIcon(getClass().getResource("/com/mycompany/concesionariaautos/img/Iconos para programas/Iconos para programas/Save-80_icon-icons.com_57276.png"))); // NOI18N
         btnAgregar.setText("Modificar");
         btnAgregar.setContentAreaFilled(false);
         btnAgregar.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
@@ -265,7 +251,7 @@ public class ModicarDatos extends javax.swing.JFrame {
 
         btnLimpiar.setFont(new java.awt.Font("Ebrima", 1, 18)); // NOI18N
         btnLimpiar.setForeground(new java.awt.Color(102, 102, 102));
-        btnLimpiar.setIcon(new javax.swing.ImageIcon("C:\\Users\\carri\\OneDrive\\Documents\\NetBeansProjects\\Iconos para programas\\Clean.png")); // NOI18N
+        btnLimpiar.setIcon(new javax.swing.ImageIcon(getClass().getResource("/com/mycompany/concesionariaautos/img/Iconos para programas/Iconos para programas/Clean.png"))); // NOI18N
         btnLimpiar.setText(" Limpiar");
         btnLimpiar.setContentAreaFilled(false);
         btnLimpiar.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
@@ -291,7 +277,7 @@ public class ModicarDatos extends javax.swing.JFrame {
         btnRegresar.setBackground(new java.awt.Color(184, 63, 227));
         btnRegresar.setFont(new java.awt.Font("Ebrima", 1, 18)); // NOI18N
         btnRegresar.setForeground(new java.awt.Color(255, 255, 255));
-        btnRegresar.setIcon(new javax.swing.ImageIcon("C:\\Users\\carri\\OneDrive\\Documents\\NetBeansProjects\\Iconos para programas\\return_13601.png")); // NOI18N
+        btnRegresar.setIcon(new javax.swing.ImageIcon(getClass().getResource("/com/mycompany/concesionariaautos/img/Iconos para programas/Iconos para programas/return_13601.png"))); // NOI18N
         btnRegresar.setText(" Regresar");
         btnRegresar.setContentAreaFilled(false);
         btnRegresar.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
