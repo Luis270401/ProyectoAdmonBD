@@ -154,8 +154,6 @@ public class MenuPrincipal extends javax.swing.JFrame {
 
         jPanel3.setForeground(new java.awt.Color(255, 255, 255));
 
-        jLabel7.setIcon(new javax.swing.ImageIcon("C:\\Users\\victo\\Documents\\ESCUELA\\9no Semestre\\Admon de BD\\Proyecto\\GITHUB BS\\Iconos para programas\\Iconos para programas\\AutoPortada.PNG")); // NOI18N
-
         javax.swing.GroupLayout jPanel3Layout = new javax.swing.GroupLayout(jPanel3);
         jPanel3.setLayout(jPanel3Layout);
         jPanel3Layout.setHorizontalGroup(
@@ -173,8 +171,8 @@ public class MenuPrincipal extends javax.swing.JFrame {
         jPanel1.add(jPanel3, new org.netbeans.lib.awtextra.AbsoluteConstraints(690, -20, 370, 700));
 
         jLabel1.setFont(new java.awt.Font("Eras Bold ITC", 1, 24)); // NOI18N
-        jLabel1.setText("BIENVENIDO A LA CONCESIONARIA");
-        jPanel1.add(jLabel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(50, 230, 480, 50));
+        jLabel1.setText("BIENVENIDO A LA CONCESIONARIA DE AUTOS");
+        jPanel1.add(jLabel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(30, 230, 630, 90));
 
         ContenedorBotones.setBackground(new java.awt.Color(255, 255, 255));
         ContenedorBotones.setLayout(new java.awt.GridBagLayout());

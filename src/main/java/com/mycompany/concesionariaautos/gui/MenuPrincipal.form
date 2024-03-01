@@ -253,11 +253,6 @@
           </Layout>
           <SubComponents>
             <Component class="javax.swing.JLabel" name="jLabel7">
-              <Properties>
-                <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                  <Image iconType="2" name="C:\Users\victo\Documents\ESCUELA\9no Semestre\Admon de BD\Proyecto\GITHUB BS\Iconos para programas\Iconos para programas\AutoPortada.PNG"/>
-                </Property>
-              </Properties>
             </Component>
           </SubComponents>
         </Container>
@@ -266,11 +261,11 @@
             <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
               <Font name="Eras Bold ITC" size="24" style="1"/>
             </Property>
-            <Property name="text" type="java.lang.String" value="BIENVENIDO A LA CONCESIONARIA"/>
+            <Property name="text" type="java.lang.String" value="BIENVENIDO A LA CONCESIONARIA DE AUTOS"/>
           </Properties>
           <Constraints>
             <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
-              <AbsoluteConstraints x="50" y="230" width="480" height="50"/>
+              <AbsoluteConstraints x="30" y="230" width="630" height="90"/>
             </Constraint>
           </Constraints>
         </Component>
