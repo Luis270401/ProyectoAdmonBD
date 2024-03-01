@@ -49,8 +49,6 @@ public class MenuPrincipal extends javax.swing.JFrame {
 
         jPanel1.setBackground(new java.awt.Color(255, 255, 255));
         jPanel1.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
-
-        jLabel3.setIcon(new javax.swing.ImageIcon("C:\\Users\\carri\\OneDrive\\Documents\\NetBeansProjects\\Iconos para programas\\AutoLogo2.png")); // NOI18N
         jPanel1.add(jLabel3, new org.netbeans.lib.awtextra.AbsoluteConstraints(-30, 70, 290, 160));
 
         jSeparator1.setBackground(new java.awt.Color(0, 0, 0));
@@ -156,8 +154,6 @@ public class MenuPrincipal extends javax.swing.JFrame {
 
         jPanel3.setForeground(new java.awt.Color(255, 255, 255));
 
-        jLabel7.setIcon(new javax.swing.ImageIcon("C:\\Users\\carri\\OneDrive\\Documents\\NetBeansProjects\\Iconos para programas\\fondo.png")); // NOI18N
-
         javax.swing.GroupLayout jPanel3Layout = new javax.swing.GroupLayout(jPanel3);
         jPanel3.setLayout(jPanel3Layout);
         jPanel3Layout.setHorizontalGroup(
@@ -175,8 +171,7 @@ public class MenuPrincipal extends javax.swing.JFrame {
         jPanel1.add(jPanel3, new org.netbeans.lib.awtextra.AbsoluteConstraints(690, -20, 370, 700));
 
         jLabel1.setFont(new java.awt.Font("Eras Bold ITC", 1, 24)); // NOI18N
-        jLabel1.setForeground(new java.awt.Color(0, 0, 0));
-        jLabel1.setText("BIENVENIDO AL MENÚ PRINCIPAL");
+        jLabel1.setText("BIENVENIDO A LA CONCESIONARIA");
         jPanel1.add(jLabel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(50, 230, 480, 50));
 
         ContenedorBotones.setBackground(new java.awt.Color(255, 255, 255));
@@ -187,7 +182,6 @@ public class MenuPrincipal extends javax.swing.JFrame {
         ContainerBtnAlta.setLayout(new java.awt.BorderLayout());
 
         btnAltaAutos.setFont(new java.awt.Font("SansSerif", 1, 18)); // NOI18N
-        btnAltaAutos.setForeground(new java.awt.Color(0, 0, 0));
         btnAltaAutos.setText("Alta de Automóviles");
         btnAltaAutos.setContentAreaFilled(false);
         btnAltaAutos.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
@@ -209,7 +203,6 @@ public class MenuPrincipal extends javax.swing.JFrame {
         ContainerBtnCeb.setLayout(new java.awt.BorderLayout());
 
         btnModificar.setFont(new java.awt.Font("SansSerif", 1, 18)); // NOI18N
-        btnModificar.setForeground(new java.awt.Color(0, 0, 0));
         btnModificar.setText("Consulta, edición y baja");
         btnModificar.setContentAreaFilled(false);
         btnModificar.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
@@ -232,7 +225,6 @@ public class MenuPrincipal extends javax.swing.JFrame {
         ContainerBtnSalir.setLayout(new java.awt.BorderLayout());
 
         btnSalir.setFont(new java.awt.Font("SansSerif", 1, 18)); // NOI18N
-        btnSalir.setForeground(new java.awt.Color(0, 0, 0));
         btnSalir.setText("Salir");
         btnSalir.setContentAreaFilled(false);
         btnSalir.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
