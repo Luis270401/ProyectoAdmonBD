@@ -47,7 +47,6 @@ public class ConsultaAutomovil extends javax.swing.JFrame {
         jPanel2.setBackground(new java.awt.Color(204, 102, 0));
 
         jLabel1.setHorizontalAlignment(javax.swing.SwingConstants.LEFT);
-        jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/com/mycompany/concesionariaautos/img/Iconos para programas/Iconos para programas/AutoLogo2.png"))); // NOI18N
         jLabel1.setHorizontalTextPosition(javax.swing.SwingConstants.LEFT);
 
         jLabel9.setFont(new java.awt.Font("Lucida Fax", 1, 36)); // NOI18N
@@ -135,7 +134,6 @@ public class ConsultaAutomovil extends javax.swing.JFrame {
         );
 
         btnBorrar.setFont(new java.awt.Font("Franklin Gothic Demi", 1, 14)); // NOI18N
-        btnBorrar.setIcon(new javax.swing.ImageIcon(getClass().getResource("/com/mycompany/concesionariaautos/img/Iconos para programas/Iconos para programas/eliminar.png"))); // NOI18N
         btnBorrar.setText("Borrar");
         btnBorrar.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -144,7 +142,6 @@ public class ConsultaAutomovil extends javax.swing.JFrame {
         });
 
         btnModificar.setFont(new java.awt.Font("Franklin Gothic Demi", 1, 14)); // NOI18N
-        btnModificar.setIcon(new javax.swing.ImageIcon(getClass().getResource("/com/mycompany/concesionariaautos/img/Iconos para programas/Iconos para programas/modificar.png"))); // NOI18N
         btnModificar.setText("Modificar");
         btnModificar.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -153,7 +150,6 @@ public class ConsultaAutomovil extends javax.swing.JFrame {
         });
 
         btnRegresar.setFont(new java.awt.Font("Franklin Gothic Demi", 1, 14)); // NOI18N
-        btnRegresar.setIcon(new javax.swing.ImageIcon(getClass().getResource("/com/mycompany/concesionariaautos/img/Iconos para programas/Iconos para programas/return_13601.png"))); // NOI18N
         btnRegresar.setText(" Regresar");
         btnRegresar.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {

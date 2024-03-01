@@ -203,8 +203,6 @@ public class AltaAutomovil extends javax.swing.JFrame {
         jSeparator15.setForeground(new java.awt.Color(153, 153, 153));
         jSeparator15.setOrientation(javax.swing.SwingConstants.VERTICAL);
         jPanel1.add(jSeparator15, new org.netbeans.lib.awtextra.AbsoluteConstraints(590, 280, 20, 20));
-
-        jLabel10.setIcon(new javax.swing.ImageIcon(getClass().getResource("/com/mycompany/concesionariaautos/img/Iconos para programas/Iconos para programas/AutoLogo2.png"))); // NOI18N
         jPanel1.add(jLabel10, new org.netbeans.lib.awtextra.AbsoluteConstraints(420, 0, 290, 150));
 
         jLabel9.setFont(new java.awt.Font("Lucida Fax", 1, 36)); // NOI18N
@@ -222,7 +220,6 @@ public class AltaAutomovil extends javax.swing.JFrame {
 
         btnAgregar.setFont(new java.awt.Font("Ebrima", 1, 18)); // NOI18N
         btnAgregar.setForeground(new java.awt.Color(102, 102, 102));
-        btnAgregar.setIcon(new javax.swing.ImageIcon(getClass().getResource("/com/mycompany/concesionariaautos/img/Iconos para programas/Iconos para programas/Save-80_icon-icons.com_57276.png"))); // NOI18N
         btnAgregar.setText(" Agregar");
         btnAgregar.setContentAreaFilled(false);
         btnAgregar.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
@@ -246,7 +243,6 @@ public class AltaAutomovil extends javax.swing.JFrame {
 
         btnLimpiar.setFont(new java.awt.Font("Ebrima", 1, 18)); // NOI18N
         btnLimpiar.setForeground(new java.awt.Color(102, 102, 102));
-        btnLimpiar.setIcon(new javax.swing.ImageIcon(getClass().getResource("/com/mycompany/concesionariaautos/img/Iconos para programas/Iconos para programas/Clean.png"))); // NOI18N
         btnLimpiar.setText(" Limpiar");
         btnLimpiar.setContentAreaFilled(false);
         btnLimpiar.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
@@ -272,7 +268,6 @@ public class AltaAutomovil extends javax.swing.JFrame {
         btnRegresar.setBackground(new java.awt.Color(184, 63, 227));
         btnRegresar.setFont(new java.awt.Font("Ebrima", 1, 18)); // NOI18N
         btnRegresar.setForeground(new java.awt.Color(255, 255, 255));
-        btnRegresar.setIcon(new javax.swing.ImageIcon(getClass().getResource("/com/mycompany/concesionariaautos/img/Iconos para programas/Iconos para programas/return_13601.png"))); // NOI18N
         btnRegresar.setText(" Regresar");
         btnRegresar.setContentAreaFilled(false);
         btnRegresar.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));

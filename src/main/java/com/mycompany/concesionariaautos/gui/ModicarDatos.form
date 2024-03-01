@@ -489,11 +489,6 @@
           </Constraints>
         </Component>
         <Component class="javax.swing.JLabel" name="jLabel10">
-          <Properties>
-            <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="3" name="/com/mycompany/concesionariaautos/img/Iconos para programas/Iconos para programas/AutoLogo2.png"/>
-            </Property>
-          </Properties>
           <Constraints>
             <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
               <AbsoluteConstraints x="420" y="0" width="290" height="150"/>
@@ -561,9 +556,6 @@
                     <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
                       <Color blue="66" green="66" red="66" type="rgb"/>
                     </Property>
-                    <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                      <Image iconType="3" name="/com/mycompany/concesionariaautos/img/Iconos para programas/Iconos para programas/Save-80_icon-icons.com_57276.png"/>
-                    </Property>
                     <Property name="text" type="java.lang.String" value="Modificar"/>
                     <Property name="contentAreaFilled" type="boolean" value="false"/>
                     <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
@@ -615,9 +607,6 @@
                     </Property>
                     <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
                       <Color blue="66" green="66" red="66" type="rgb"/>
-                    </Property>
-                    <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                      <Image iconType="3" name="/com/mycompany/concesionariaautos/img/Iconos para programas/Iconos para programas/Clean.png"/>
                     </Property>
                     <Property name="text" type="java.lang.String" value=" Limpiar"/>
                     <Property name="contentAreaFilled" type="boolean" value="false"/>
@@ -673,9 +662,6 @@
                     </Property>
                     <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
                       <Color blue="ff" green="ff" red="ff" type="rgb"/>
-                    </Property>
-                    <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                      <Image iconType="3" name="/com/mycompany/concesionariaautos/img/Iconos para programas/Iconos para programas/return_13601.png"/>
                     </Property>
                     <Property name="text" type="java.lang.String" value=" Regresar"/>
                     <Property name="contentAreaFilled" type="boolean" value="false"/>
